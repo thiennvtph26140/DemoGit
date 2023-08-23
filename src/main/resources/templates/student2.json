@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Nguyễn viết trung thiện",
+    "gender": true,
+    "marks": 7.5,
+    "contact": {
+      "email": "thiennvt@gmail.com",
+      "phone": "0983148720"
+    },
+    "subject": ["WEB205", "COM108"]
+  },
+  {
+    "name": "Nguyễn cong thang",
+    "gender": true,
+    "marks": 8.5,
+    "contact": {
+      "email": "thang@gmail.com",
+      "phone": "012325253"
+    },
+    "subject": ["WEB205", "COM108"]
+  },
+  {
+    "name": "mai dinh huy",
+    "gender": false,
+    "marks": 5.5,
+    "contact": {
+      "email": "huy@gmail.com",
+      "phone": "0921412412"
+    },
+    "subject": ["MKT105", "COM108"]
+  }
+]
